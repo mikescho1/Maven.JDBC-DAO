@@ -69,7 +69,7 @@ public class Cars {
         this.id = id;
     }
 
-    public Cars (int id, String make, String model, int year, String color, String vin)    {
+    public Cars (int id, String make, String model, String year, String color, String vin)    {
         this.id = id;
         this.make = make;
         this.model = model;
